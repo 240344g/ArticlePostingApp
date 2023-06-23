@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+.article_contents {
+    display: flex;
+    margin: 50px 120px;
+}

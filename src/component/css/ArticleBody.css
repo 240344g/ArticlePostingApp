@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.article_contents_article {
+    background-color: #fff;
+    width: 1075px;
+    border-radius: 50px;
+    padding: 70px;
+}
+
+.article_contents_article_title {
+    margin: 0;
+    font-size: 50px;
+}
+
+.article_contents_article_date {
+    font-size: 25px;
+    color: #8f8f8f;
+    margin: 0 60px;
+}
+
+.article_contents_article_name {
+    font-size: 35px;
+    margin: 0 60px 20px 60px;
+}
+
+.article_contents_article_explanation {
+    font-size: 25px;
+    margin: 0 60px 20px 60px;
+    white-space: pre-wrap;
+}
+
+.article_contents_article_line {
+    height: 2px;
+    background-color: #000;
+    border: none;
+}
+
+.article_contents_article_body {
+    font-size: 25px;
+    margin: 70px 0 0 0;
+    white-space: pre-wrap;
+}

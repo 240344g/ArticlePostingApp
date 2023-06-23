@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+.MyPageContents_articles {
+    display: flex;
+    padding: 10px 225px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.MyPageContents_parent {
+    position: relative;
+}
+
+.display_none {
+    display: none;
+}
+
+.style_none {
+    border: none;
+    text-align: start;
+    padding-bottom: 0px;
+}
+
+.MyArticleContents_buttons {
+    display: flex;
+    flex-flow: column;
+    position: absolute;
+    z-index: 1;
+    bottom: 40px;
+    left: 40px;
+}
+
+.MyArticleContents_buttons button {
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+}
+
+.MyArticleContents_delete_btn {
+    color: #f00;
+}

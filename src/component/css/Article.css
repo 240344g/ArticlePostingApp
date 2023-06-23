@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+.Article {
+    background-color: #fff;
+    width: 435px;
+    min-height: 460px;
+    border-radius: 50px;
+    padding: 30px 50px;
+    margin-bottom: 30px;
+}
+
+.Article_button {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border: none;
+    text-align: start;
+}
+
+.margin_0 {
+    margin: 0;
+}
+
+.margin_left_15 {
+    margin: 0 0 0 15px;
+}
+
+.font_size_20 {
+    font-size: 20px;
+}
+
+.Article_user_name {
+    font-size: 25px;
+}
+
+.Article_date {
+    color: #888;
+}
+
+.Article_title {
+    font-size: 30px;
+}
+
+.Article_explanation {
+    height: 250px;
+}
+
+.Article_heart_data {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Article_heart_icon {
+    margin-right: 10px;
+    margin-top: 1px;
+    font-size: 20px;
+    color: #ff69b4;
+}

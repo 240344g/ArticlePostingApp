@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.article_contents_heart {
+    margin: 70px 40px;
+    position: fixed;
+    right: 95px;
+}
+
+.article_contents_heart_icon {
+    font-size: 50px;
+}
+
+.article_contents_heart_icon:hover {
+    cursor: pointer;
+}
+
+.color_pink {
+    color: #ff69b4;
+}
+
+.color_white {
+    color: #fff;
+}
